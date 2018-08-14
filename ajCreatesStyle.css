@@ -1,0 +1,96 @@
+@charset "utf-8";
+
+body {
+	
+}
+.
+#container {
+	width: 1366px;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#container #header img {
+	display: block;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	padding-top: -145px;
+	margin-top: -25px;
+}
+
+
+
+#container #NavBar #navBarContent {
+	margin-top: -70px;
+}
+#maintTextArea #mainTextContent p {
+	color: #F9F9F9;
+	font-size: large;
+}
+#container #maintTextArea {
+	margin-top: 15px;
+
+}
+#container #NavBar img {
+	float: none;
+	clear: none;
+	margin-bottom: -155px;
+}
+#maintTextArea #mainTextContent a {
+
+
+
+
+
+
+
+}
+#container #NavBar {
+
+}
+.h1 {
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 35px;
+	/* [disabled]text-align: center; */
+	text-decoration: none;
+	text-shadow: 1px 1px 25px #7A58BB;
+	text-transform: none;
+	letter-spacing: -2px;
+	word-spacing: 5px;
+}
+.p {
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 20px;
+	letter-spacing: -1px;
+	opacity: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-shadow: 0px 0px 27px #000000;
+}
+.rando1 {
+	color: #77F0F7;
+	font-size: 65px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-style: normal;
+	letter-spacing: -8px;
+	text-decoration: none;
+	text-shadow: 0px 0 15px;
+}
+.rando2 {
+	color: #E3E2A5;
+	font-size: 45px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-shadow: 1px 1px 25px #E8FF00;
+}
+.lineLink {
+	opacity: .5;
+	color: #FFFFFF;
+}
+.textColumn {
+	width: 638px;
+}
